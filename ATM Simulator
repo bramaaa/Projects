@@ -10,7 +10,8 @@ btn_color = 'gold'
 btn_text_color = 'blue'
 entry_bg = 'white'
 font_name = 'Arial'
-
+#Card num - 1234567890123456
+#Password - 1234
 
 class ATMSimulator:
     def __init__(self, root):
